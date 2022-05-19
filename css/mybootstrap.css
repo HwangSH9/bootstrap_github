@@ -1,0 +1,30 @@
+@charset 'utf-8';
+
+/* .col-md-6{
+            border: 1px solid red;
+        } */
+        table, th, td{
+            text-align: center;
+        }
+        th{
+            background-color: rgb(251, 233, 206);
+            border: 2px solid rgb(248, 251, 201) !important;
+        }
+
+        tr, td{
+            vertical-align: middle !important;
+        }
+
+        /* .container{
+            margin: 0 auto;
+            width: 1000px;
+        } */
+
+        ul{
+            list-style: none;
+        }
+
+        div{
+            text-align: center;
+        }
+        
